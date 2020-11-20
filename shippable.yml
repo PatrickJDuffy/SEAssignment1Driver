@@ -1,0 +1,6 @@
+language: java
+jdk: oraclejdk11
+  
+build:
+    ci:
+        - mvn install -DskipTests=false
