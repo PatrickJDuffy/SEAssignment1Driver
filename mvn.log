@@ -1,0 +1,30 @@
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com:SoftwareEngineeringDriver:jar:1.0-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.springframework.boot:spring-boot-maven-plugin is missing. @ line 30, column 21
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[INFO] 
+[INFO] -------------------< com:SoftwareEngineeringDriver >--------------------
+[INFO] Building SoftwareEngineeringDriver 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ SoftwareEngineeringDriver ---
+[INFO] Deleting C:\Users\duffy\Documents\NetBeansProjects\SoftwareEngineeringDriver\target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ SoftwareEngineeringDriver ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\duffy\Documents\NetBeansProjects\SoftwareEngineeringDriver\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ SoftwareEngineeringDriver ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\duffy\Documents\NetBeansProjects\SoftwareEngineeringDriver\target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.696 s
+[INFO] Finished at: 2020-11-23T21:50:56Z
+[INFO] ------------------------------------------------------------------------
